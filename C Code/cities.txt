@@ -1,0 +1,5 @@
+1 Latur
+2 Mumbai
+3 Pune
+4 Akkalkot
+5 nilanga
